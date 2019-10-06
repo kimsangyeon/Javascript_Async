@@ -1,0 +1,22 @@
+{
+  "name": "javascript_async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Async_Await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimsangyeon/Javascript_Async.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimsangyeon/Javascript_Async/issues"
+  },
+  "homepage": "https://github.com/kimsangyeon/Javascript_Async#readme",
+  "devDependencies": {
+    "co": "^4.6.0"
+  }
+}
